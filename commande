@@ -1,0 +1,2 @@
+/usr/local/hadoop/bin/hadoop jar target/WORDCOUNTHADOOP-1.0-SNAPSHOT.jar /home/bouhmid/hadoop_java/input/input.txt /home/bouhmid/hadoop_java/output.txt
+
